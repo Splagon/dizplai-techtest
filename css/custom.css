@@ -15,4 +15,34 @@ h1 {
     font-weight: 700;
     font-size: 2.5em;
 }
+
+.btn {
+    font-size: 1.25em;
+    padding-top: 0.7em;
+    padding-bottom: 0.7em;
+}
+
+.btn-option {
+    border-color: rgba(255,255,255,1);
+    border-width: 2px;
+    background-color: rgba(255,255,255,0.25);
+    color: rgba(255,255,255,1);
+}
+.ar:checked {
+    background-color: rgba(255,255,255,1) !important;
+    color: #996BF9;
+}
+
+.btn-submit {
+    border-color: #8C8C8C;
+    border-width: 2px;
+    background-color: rgba(255,255,255,1);
+    color: #996BF9;
+}
+.btn-submit:hover {
+    background-color: rgba(255,255,255,0.8);
+    color: #996BF9;
+}
+
+
   
